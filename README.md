@@ -1,8 +1,8 @@
-# Desafio Técnico QA – Beedoo (2026)
+# Desafio técnico QA – Beedoo (2026)
 
 ## 1. Introdução
 
-Este repositório apresenta a execução do Desafio Técnico de Qualidade de Software da Beedoo, com o objetivo de avaliar a capacidade de análise de sistemas, criação de cenários de teste, execução de testes e identificação de defeitos em uma aplicação web.
+Este repositório apresenta a execução do Desafio técnico de qualidade de software da Beedoo, com o objetivo de avaliar a capacidade de análise de sistemas, criação de cenários de teste, execução de testes e identificação de defeitos em uma aplicação web.
 
 A atividade consiste em analisar e testar o módulo de **cadastro e listagem de cursos** disponível na aplicação proposta.
 

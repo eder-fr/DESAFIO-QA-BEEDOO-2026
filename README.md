@@ -11,7 +11,7 @@ https://creative-sherbet-a51eac.netlify.app/
 
 ---
 
-# 2. Objetivo da aplicação
+## 2. Objetivo da aplicação
 
 Com base na análise realizada, a aplicação tem como objetivo permitir o **gerenciamento de cursos**, possibilitando ao usuário:
 
@@ -30,7 +30,7 @@ O sistema funciona como um módulo simples de administração de cursos, onde ca
 
 ---
 
-# 3. Estrutura da aplicação
+## 3. Estrutura da aplicação
 
 Durante a exploração inicial da aplicação foram identificadas as seguintes páginas e elementos.
 
@@ -52,7 +52,7 @@ O cabeçalho da aplicação possui os seguintes elementos:
 
 ---
 
-# Página LISTAR CURSOS
+## Página LISTAR CURSOS
 
 Esta página apresenta a listagem dos cursos cadastrados no sistema.
 
@@ -77,7 +77,7 @@ Este botão permite remover o curso da lista.
 
 ---
 
-# Página CADASTRAR CURSOS
+## Página CADASTRAR CURSOS
 
 Esta página permite o cadastro de novos cursos.
 
@@ -103,7 +103,7 @@ Ao final do formulário existe o botão:
 
 ---
 
-# 4. Fluxos principais da aplicação
+## 4. Fluxos principais da aplicação
 
 Durante a análise da aplicação foram identificados os seguintes fluxos principais.
 
@@ -154,7 +154,7 @@ A notificação permanece visível por alguns segundos na parte superior central
 
 ---
 
-# 5. Estratégia de testes
+## 5. Estratégia de testes
 
 A estratégia adotada neste desafio envolveu as seguintes etapas:
 
@@ -176,7 +176,7 @@ Os testes foram focados principalmente nos seguintes pontos:
 
 ---
 
-# 6. Pontos críticos para teste
+## 6. Pontos críticos para teste
 
 Durante a análise da aplicação foram identificados alguns pontos considerados críticos para testes.
 
@@ -219,7 +219,7 @@ Testar entradas inválidas, campos vazios, valores extremos e formatos incorreto
 
 ---
 
-# 7. Casos de teste
+## 7. Casos de teste
 
 Os cenários e casos de teste elaborados para este desafio foram documentados em uma planilha do Google Sheets.
 
@@ -229,7 +229,7 @@ https://docs.google.com/spreadsheets/d/1jUtukUffTZ0He2Suh5dkm7_8gvskM9QpjWwcgEiG
 
 ---
 
-# 8. Evidências da execução dos testes
+## 8. Evidências da execução dos testes
 
 As evidências da execução dos testes foram registradas por meio de **capturas de tela realizadas durante a execução dos cenários de teste**.
 
@@ -245,7 +245,7 @@ https://drive.google.com/drive/folders/1UZQKavrdLfshjoPN2S2O53WbYROzRZq2
 
 ---
 
-# 9. Relatório de bugs
+## 9. Relatório de bugs
 
 Os bugs identificados durante a execução dos testes foram documentados contendo:
 
@@ -261,18 +261,17 @@ https://docs.google.com/spreadsheets/d/1-0wdhaeobJ2hxqAbAluVOe8VcwNetXshcHdMfYil
 
 ---
 
-# 10. Resumo da execução dos testes
+## 10. Resumo da execução dos testes
 
 | Métrica | Resultado |
-|--------|-----------|
-Total de casos de teste executados | 22 |
-Testes aprovados | 5 |
-Testes reprovados | 17 |
-Bugs identificados | 7 |
+| Total de casos de teste executados | 22 |
+| Testes aprovados | 5 |
+| Testes reprovados | 17 |
+| Bugs identificados | 7 |
 
 ---
 
-# 11. Possíveis melhorias para a aplicação
+## 11. Possíveis melhorias para a aplicação
 
 Durante a execução dos testes foram identificadas algumas oportunidades de melhoria que podem aumentar a confiabilidade do sistema e melhorar a experiência do usuário.
 
@@ -284,11 +283,12 @@ Principais melhorias sugeridas:
 - Implementação de **validação de campos condicionais**, como endereço para cursos presenciais e link de inscrição para cursos online
 - Correção do comportamento da funcionalidade **Excluir curso**, garantindo que o item seja removido da lista após a ação
 - Padronização de mensagens de erro e validação exibidas ao usuário
+- Implementação da funcionalidade **Editar curso**, permitindo que o usuário faça a edição de informações de um curso cadastrado
 - Correção ortográfica do texto **"Beedoo QA Chalenge"** para **"Beedoo QA Challenge"**
 
 ---
 
-# 12. Considerações finais
+## 12. Considerações finais
 
 Este desafio foi realizado com foco na análise da aplicação, estruturação de cenários de teste, execução dos testes e registro de defeitos, seguindo boas práticas utilizadas em processos de **Qualidade de Software**.
 

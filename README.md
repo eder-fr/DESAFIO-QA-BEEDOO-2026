@@ -264,6 +264,7 @@ https://docs.google.com/spreadsheets/d/1-0wdhaeobJ2hxqAbAluVOe8VcwNetXshcHdMfYil
 ## 10. Resumo da execução dos testes
 
 | Métrica | Resultado |
+|         |           |
 Total de casos de teste executados | 22 |
 Testes aprovados | 5 |
 Testes reprovados | 17 |
